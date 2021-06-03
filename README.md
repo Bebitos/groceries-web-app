@@ -1,3 +1,8 @@
+# BEBITOS readme:
+
+Typescript is enabled in this project
+To utilize Typescript in a file, change the extension from .js to .tsx
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
