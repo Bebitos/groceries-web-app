@@ -1,7 +1,6 @@
-# BEBITOS readme:
+# Bebitos:
 
-Typescript is enabled in this project
-To utilize Typescript in a file, change the extension from .js to .tsx
+Bebitos is an webapp that allows you to create, update and delete grocery lists.
 
 # Figma Link
 
