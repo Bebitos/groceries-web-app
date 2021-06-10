@@ -3,6 +3,12 @@
 Typescript is enabled in this project
 To utilize Typescript in a file, change the extension from .js to .tsx
 
+# Figma Link
+
+- [Figma](https://www.figma.com/file/2B2vxeCoF8ICjqcZd0R4hO/Bebitos-team-library?node-id=0%3A1).
+
+# Rules
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
